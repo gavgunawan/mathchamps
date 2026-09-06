@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="SMC Practice">
+  <rect width="512" height="512" rx="112" fill="#1e4fa3"/>
+  <rect x="72" y="72" width="368" height="368" rx="72" fill="#ffffff" opacity="0.1"/>
+  <path d="M144 168h224M144 256h224M144 344h140" stroke="#ffffff" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="356" cy="344" r="42" fill="#ffffff"/>
+  <path d="m338 344 13 13 25-30" fill="none" stroke="#1e4fa3" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
