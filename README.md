@@ -2,6 +2,8 @@
 
 A focused, installable Grade 3 Singapore Math Challenge practice app.
 
+Live app: https://gavgunawan.github.io/mathchamps/
+
 ## Product flow
 
 1. Start the 31-question paper.
